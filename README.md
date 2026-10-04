@@ -6,6 +6,8 @@ Follow a ball downhill on a loss curve. A learning rate can make it settle, wobb
 
 ## Try it
 
+https://raeeskasim1.github.io/gradient-descent-racer/
+
 Change the learning rate, run the descent, then reset and compare with rate 1.20. Use One step to inspect each update.
 
 ## How it works
